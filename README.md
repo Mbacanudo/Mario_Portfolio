@@ -1,4 +1,4 @@
-# Portfolio proyectos DS
+# Portfolio Proyectos DS
 Proyectos públicos
 
 # [Proyecto 1: Predicción de ventas](https://github.com/Mbacanudo/prediccion_ventas)
