@@ -1,2 +1,2 @@
 # Portfolio proyectos DS
-Proyectos públicos
+Proyectos de Data Science públicos
