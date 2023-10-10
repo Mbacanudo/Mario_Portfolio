@@ -1,5 +1,5 @@
 # Portfolio proyectos DS
-Proyectos de Data Science públicos
+Proyectos públicos
 
 # [Proyecto 1: Predicción de ventas] (https://github.com/Mbacanudo/prediccion_ventas)
 * Prediccion de ventas utilizando modelos supervisados.
